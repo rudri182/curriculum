@@ -91,13 +91,13 @@ These are some misconceptions that people have in their mind but it is not alway
 
 - **Cyber Security is just a form of defense** - “The best defense is a good offense.”
 
-- **You will never be attacked** - Unfortunately, the attacked business is often the last to know that it's been breached. It's only after banks discover fraudulent charges that businesses hear about a suspected hack.
+- **You will never be attacked** - Unfortunately, the attacked business is often the last to know that it's been breached. It's only after banks discover fraudulent charges that businesses hear about a suspected hack. 
 
 - **Hackers are criminals** - It is a big misconception. There are type of hackers and not all hackers are criminals. There are three types of hackers called - *White Hat Hackers(Who 'hacks' legally)* , *Grey Hat Hackers(who may sometimes violate laws or typical ethical standards, but do not have the malicious intent)* and *Black Hat Hackers(Illegal hacking)*.
 
 - **If wi-fi has a passwords, then it is secure** - If the person who travels to different workplaces and needs to use public wi-fi it is not recommended to do sensitive transactions through it. The same password is shared with many users and anyone can see the information that is being transferred.
 
-- **By turning off GPS, you will not be traced** - Almost half of people surveyed either didn't know or were unsure whether disabling GPS prevents all tracking. Your phone's built-in location service is just one way data can be collected. As Pew Research notes, your phone also connects to cell towers and Wi-Fi networks, and connection to these technologies allows tracking too.
+- **By turning off GPS, you will not be traced** - Almost half of people surveyed either didn't know or were unsure whether disabling GPS prevents all tracking. Your phone's built-in location service is just one way data can be collected. As Pew Research notes, your phone also connects to cell towers and Wi-Fi networks, and connection to these technologies allows tracking too. 
 
 - **Emails are secure** - Over 400 businesses are targeted daily, and these emails are growing increasingly and it is challenging to identify since they’re designed to mimic legitimate communication so they can gain access to your sensitive information – including usernames and passwords.
 
@@ -185,3 +185,10 @@ Don’t forget. Install security and (with permission) monitor the networks that
 - [OWASP](https://www.owasp.org/index.php/Main_Page)
 - [FIRST](https://www.first.org/)
 - [And more...](https://cybersecurityventures.com/cybersecurity-associations/)
+
+### References
+
+- [The Importance of Computer Security](https://blog.onsharp.com/the-importance-of-computer-security)
+- [here](https://www.insureon.com/blog/post/2015/01/12/top-8-data-breach-misconceptions.aspx)
+- [4 myths -- and facts -- about online security](https://money.cnn.com/2017/03/22/technology/cybersecurity-misconceptions-pew/index.html)
+- [9 Steps to Land a Cyber Security Job, According to Experts](https://www.topuniversities.com/student-info/careers-advice/9-steps-land-cyber-security-job-according-experts)
